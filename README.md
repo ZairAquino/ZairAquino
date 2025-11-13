@@ -1,7 +1,7 @@
 <h1 align="center">This is Zair Aquino</h1>
 <h3 align="center">Ingeniero industrial, desarrollador y fundador de Allma.app. Apasionado por la automatización, IA y proyectos web para startups.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https: //www.linkedin.com/in/zair-aquino/ </h3>
 <p align="left">
 </p>
 
